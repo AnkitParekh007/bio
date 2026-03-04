@@ -13,7 +13,7 @@ Designing Intelligent Interfaces & Scalable AI-Driven Systems
 I'm Ankit Parekh — an AI-focused Frontend Architect building scalable, intelligent, and high-performance web platforms.
 
 - <i>Currently:</i> Architecting AI-powered frontend systems & enterprise-scale Angular applications  
-- <i>Previously:</i> Frontend Manager at Codifyd Inc.  
+- <i>Previously:</i> Frontend Architect at organizations like Musafir, Verdantis, Codifyd, Forto and many more.
 - <i>Special Focus:</i> AI-integrated UX, multi-agent systems, scalable UI architecture  
 
 ---
