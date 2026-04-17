@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Parekh</h1>
 
 <h3 align="center">
-AI Frontend Architect • Building AI-Native Applications • Angular Specialist
+AI Frontend Architect • Building AI-Native Applications • Angular App Specialist • AI App Architect
 </h3>
 
 <p align="center">
@@ -36,7 +36,7 @@ I architect and build **AI-powered frontend systems** where applications evolve 
 
 I specialize in:
 
-* Embedding **Copilot experiences inside Angular apps**
+* Embedding **Copilot experiences inside Web apps**
 * Designing **multi-agent AI architectures**
 * Building **AI-native frontend platforms**
 
@@ -67,7 +67,7 @@ A **ChatGPT-like Copilot embedded directly into enterprise UI**
 
 ### 🧩 Angular Copilot SDK (Founder Vision)
 
-A platform to convert any Angular app into an **AI-native product**
+A platform to convert any Web app into an **AI-native product**
 
 * Plug & Play Copilot UI
 * Agent orchestration engine
