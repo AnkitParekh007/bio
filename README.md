@@ -171,7 +171,7 @@ Worked on large-scale platforms across:
 
 <p align="center">
   <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/AnkitParekh007/resume/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://ankitparekh007.github.io/resume/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" /></a>
 </p>
 
 ---
